@@ -12,6 +12,6 @@ import Foundation
 class LibraryTasks {
     static let sharedInstance = LibraryTasks()
     
-    var tasks = [Tasks]()
+    var task = [Tasks]() 
 }
 
